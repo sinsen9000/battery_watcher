@@ -1,0 +1,7 @@
+C:\Users\frisk\VisualStudio\battery_watcher\battery_watcher\bin\Debug\battery_watcher.exe.config
+C:\Users\frisk\VisualStudio\battery_watcher\battery_watcher\bin\Debug\battery_watcher.exe
+C:\Users\frisk\VisualStudio\battery_watcher\battery_watcher\bin\Debug\battery_watcher.pdb
+C:\Users\frisk\VisualStudio\battery_watcher\battery_watcher\obj\Debug\battery_watcher.csproj.CoreCompileInputs.cache
+C:\Users\frisk\VisualStudio\battery_watcher\battery_watcher\obj\Debug\battery_watcher.exe
+C:\Users\frisk\VisualStudio\battery_watcher\battery_watcher\obj\Debug\battery_watcher.pdb
+C:\Users\frisk\VisualStudio\battery_watcher\battery_watcher\obj\Debug\battery_watcher.csproj.AssemblyReference.cache
